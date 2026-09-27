@@ -9,7 +9,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/joriz-pauline-nebrija-7bb167383/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
- <a href="https://www.facebook.com/jorizpauline.nebrija/"><img src="https://img.shields.io/badge/Facebook-My_Profile-orange?style=for-the-badge&logo=facebook"></a>
+ <a href="https://www.facebook.com/jorizpauline.nebrija/"><img src="https://img.shields.io/badge/Facebook-Profile-orange?style=for-the-badge&logo=facebook"></a>
    <a href="mailto:JorizPaulineNebrija@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=yahoomail"></a>
 </p>
 
