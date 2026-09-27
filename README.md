@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Paula 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -8,20 +8,18 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/joriz-pauline-nebrija-7bb167383/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.facebook.com/jorizpauline.nebrija"><img src="https://img.shields.io/badge/Facebook-My_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+  <a href="JorizPaulineNebrija@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+With 10 years of banking experience, I've built a career on accuracy, compliance, and strong analytical thinking. I'm now shifting into the virtual/remote space, bringing skills in data analytics, presentation, and communication to the table. Adaptable and detail-driven, I'm ready to deliver the same quality and reliability I've always brought — now in a virtual capacity.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy Quality time with my kids. I love to always watch toturial and attend trainings to learn more!.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://Paula03design.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
@@ -31,8 +29,8 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Travel VA bootcamp
+- Search Engine Optimization
 
 ## 🛠️ Technical Skillset
 
