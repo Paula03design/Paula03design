@@ -9,7 +9,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/joriz-pauline-nebrija-7bb167383/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.facebook.com/jorizpauline.nebrija"><img src="(https://img.shields.io/badge/Facebook-My_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+  <a href="https://www.facebook.com/jorizpauline.nebrija"><img src="[img.shields.io](https://img.shields.io/badge/Facebook-My_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
   <a href="JorizPaulineNebrija@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -19,7 +19,7 @@ With 10 years of banking experience, I've built a career on accuracy, compliance
 When I'm not working with data, I enjoy Quality time with my kids. I love to always watch toturial and attend trainings to learn more!.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://Paula03design.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/Paula03design)
       
 ## 🔭 What I'm Currently Working On 
 
