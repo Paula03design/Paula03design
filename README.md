@@ -19,7 +19,7 @@ With 10 years of banking experience, I've built a career on accuracy, compliance
 When I'm not working with data, I enjoy Quality time with my kids. I love to always watch toturial and attend trainings to learn more!.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://github.com/Paula03design)
+### [🏆 Check Out My Full Portfolio Website](https://paula03design.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
