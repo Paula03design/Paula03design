@@ -9,8 +9,8 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/joriz-pauline-nebrija-7bb167383/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
- <a href="https://www.facebook.com/jorizpauline.nebrija/"><img src="https://img.shields.io/badge/Facebook-My_Profile-blue?style=for-the-badge&logo=youtube"></a>
-   <a href="mailto:JorizPaulineNebrija@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+ <a href="https://www.facebook.com/jorizpauline.nebrija/"><img src="https://img.shields.io/badge/Facebook-My_Profile-blue?style=for-the-badge&logo=facebook"></a>
+   <a href="mailto:JorizPaulineNebrija@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=yahoomail"></a>
 </p>
 
 ## 🚀 About Me 
@@ -33,13 +33,8 @@ When I'm not working with data, I enjoy Quality time with my kids. I love to alw
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
-
-#### Programming & Automation
-<p>
